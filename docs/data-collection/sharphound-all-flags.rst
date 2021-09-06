@@ -56,6 +56,17 @@ Here are the less common CollectionMethods and what they do:
 * **ObjectProps** - Performs Object Properties collection for properties 
   such as LastLogon or PwdLastSet
 
+Table to demonstrate the differences
+------------------------------------
+
+.. image:: /images/SharpHoundCheatSheet.png   
+   :align: center
+   :width: 900px
+   :alt: SharpHound Cheat Sheet
+
+Image credit: https://twitter.com/SadProcessor
+
+
 Domain
 ------
 
